@@ -16,3 +16,6 @@ else
     alert("you pressed cancel");
 }
 console.log("end of alert demo");
+
+document.title="Alert Demo";
+document.body.style.backgroundColor="red";
